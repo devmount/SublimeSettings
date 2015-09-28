@@ -1,2 +1,2 @@
-# SublimeSettings
-My personal Sublime Text 3 settings
+# Sublime Text 3 Settings
+I'm using this repository to version and synchronize my user settings on different devices
