@@ -1,0 +1,13 @@
+{
+	"font_size": 8,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"theme": "Flatland Dark.sublime-theme",
+	"flatland_square_tabs": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"flatland_sidebar_tree_xsmall" : true,
+	"trim_trailing_white_space_on_save": true
+}
