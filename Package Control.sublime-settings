@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Case Conversion",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"FTPSync",
+		"INI",
+		"LaTeXTools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"Text Pastry",
+		"Theme - Flatland",
+		"Theme - SoDaReloaded"
+	]
+}
