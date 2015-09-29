@@ -1,7 +1,10 @@
-# Ignore everything
+# Ignore everything...
 *
 
-# But preferences
+# ... but preferences
 !.gitignore
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+
+# and theme files
+!Flatland*
