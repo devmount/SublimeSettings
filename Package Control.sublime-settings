@@ -12,6 +12,7 @@
 		"DocBlockr",
 		"Emmet",
 		"FTPSync",
+		"Git",
 		"INI",
 		"LaTeXTools",
 		"Markdown Preview",
@@ -22,7 +23,6 @@
 		"SASS Build",
 		"SideBarEnhancements",
 		"Text Pastry",
-		"Theme - Flatland",
-		"Theme - SoDaReloaded"
+		"Theme - Otto"
 	]
 }
