@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
 		"Case Conversion",
 		"Color Highlighter",
 		"ColorPicker",
@@ -22,7 +23,6 @@
 		"Sass",
 		"SASS Build",
 		"SideBarEnhancements",
-		"Text Pastry",
-		"Theme - Otto"
+		"Text Pastry"
 	]
 }
