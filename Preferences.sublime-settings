@@ -13,7 +13,7 @@
 	],
 	"show_line_endings": true,
 	"show_panel_on_build": false,
-  	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_accent_orange": true,
 	"theme_global_ui_small": true,
 	"theme_tab_selected_filled": true,
