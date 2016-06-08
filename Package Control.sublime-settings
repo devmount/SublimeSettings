@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"Case Conversion",
