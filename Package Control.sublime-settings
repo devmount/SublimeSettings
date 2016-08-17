@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApplySyntax",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"Case Conversion",
