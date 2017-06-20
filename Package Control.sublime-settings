@@ -2,32 +2,29 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-	],
-	"installed_packages":
-	[
-		"Alignment",
-		"ApplySyntax",
 		"Boxy Theme",
 		"BracketHighlighter",
-		"Case Conversion",
 		"Color Highlighter",
-		"ColorPicker",
-		"Colorsublime",
-		"DiffTabs",
-		"DocBlockr",
 		"Emmet",
 		"FTPSync",
 		"Git",
 		"GitGutter",
-		"INI",
-		"LaTeXTools",
-		"Markdown Preview",
-		"Package Control",
-		"PackageResourceViewer",
-		"Sass",
-		"SASS Build",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"Text Pastry"
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FTPSync",
+		"Git",
+		"GitGutter",
+		"LaTeXTools",
+		"Package Control",
+		"Pandoc",
+		"Text Pastry",
+		"WakaTime",
+		"WordCount"
 	]
 }
